@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+color: blue;
+text-align:  center;
+font-family: 'Courier New', Courier, monospace; Times serif;
+}
+
+header{
+    background-color: cornflowerblue;
+    padding: 20px;
+    font-size: 20px;
+}
+
+header a{ 
+    text-decoration: aqua;
+    padding: 10px;
+    color: bisque;
+
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
